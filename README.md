@@ -1,6 +1,6 @@
 # 48TH Members CDN
 
-A high-performance Content Delivery Network (CDN) for BNK48 and CGM48 member photos, powered by jsdelivr. This repository serves as a centralized asset hub for developers building fan-made applications, websites, or widgets.
+Content Delivery Network (CDN) for BNK48 and CGM48 member photos, powered by jsdelivr. This repository serves as a centralized asset hub for developers building fan-made websites.
 
 &nbsp;
 
